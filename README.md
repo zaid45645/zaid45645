@@ -9,7 +9,17 @@
 
 ###
 
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 
+- 🔭 I’m currently working on [Kinexa - A LinkedIn for teenagers](https://github.com/zaid45645/kinexa)
+
+- 🌱 I’m currently learning **Handling DB's, React, Frameworks**
+
+- 👨‍💻 All of my projects are available at [https://github.com/zaid45645](https://github.com/zaid45645)
+
+- 📫 How to reach me **zaidayan456@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 
 ###
 
@@ -32,8 +42,6 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <a href="https://www.twitch.tv/itz_zakatsu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="zaidayan456@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
