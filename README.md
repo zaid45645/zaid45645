@@ -9,7 +9,6 @@
 
 ###
 
-<h3 align="center">A passionate frontend and backend developer from India</h3>
 
 - 🔭 I’m currently working on [Kinexa - A LinkedIn for teenagers](https://github.com/zaid45645/kinexa)
 
