@@ -10,7 +10,7 @@
 ###
 
 
-- 🔭 I’m currently working on [Kinexa - A LinkedIn for teenagers](https://github.com/zaid45645/kinexa)
+- 🔭 I’m currently working on React-Native projects and Websites!
 
 - 🌱 I’m currently learning **Handling DB's, React, Frameworks**
 
