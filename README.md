@@ -1,25 +1,10 @@
-<h2 align="left">Hi 👋! My name is Mohammed Zaid</h2>
+<h2 align="left">Heyo👋! I'm Mohammed Zaid</h2>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=807&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8"
  />
-
-###
-
-
-- 🔭 I’m currently working on **React-Native projects and Websites!**
-
-- 🌱 I’m currently learning **Handling DB's, React, Frameworks**
-
-- 👨‍💻 All of my projects are available at [https://github.com/zaid45645](https://github.com/zaid45645)
-
-- 📫 How to reach me **zaidayan456@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/im.zakatsu175/" target="_blank">
